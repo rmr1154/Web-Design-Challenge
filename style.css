@@ -1,0 +1,30 @@
+
+
+h4 {
+text-align: center;
+}
+
+header {
+    background-color: aquamarine;
+}
+
+.landing-image {
+    float: left;
+    max-width: 50%;
+    height: auto;
+    
+}
+
+.vis-image {
+        max-width: 100%;
+        height: auto;
+}
+
+.comp-image {
+    max-width: 100%;
+    height: auto;
+}
+
+a:active {
+    background-color: yellow;
+  }
