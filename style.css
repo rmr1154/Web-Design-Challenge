@@ -18,6 +18,7 @@ header {
 .vis-image {
         max-width: 100%;
         height: auto;
+        padding: 5px;
 }
 
 .comp-image {
@@ -25,6 +26,14 @@ header {
     height: auto;
 }
 
-a:active {
-    background-color: yellow;
+.active {
+    border:1px solid red;
   }
+
+body {
+    background-color: silver;
+}
+
+.container {
+    background-color: whitesmoke;
+}
