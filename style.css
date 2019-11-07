@@ -22,7 +22,14 @@ body {
 .vis-image {
         max-width: 100%;
         height: auto;
-        padding: 5px;
+        margin: 5px;
+        box-shadow: 5px 5px 0px #999;
+}
+
+.disp-image {
+  max-width: 100%;
+  height: auto;
+  margin: 5px;
 }
 
 .comp-image {
@@ -40,6 +47,7 @@ body {
 
 .container {
     background-color: white;
+    padding-top: 20px;
 }
 
 /* NAV BAR SECTION*/
